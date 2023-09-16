@@ -1,10 +1,10 @@
 body{
-	width:800px;
+	width:1200px;
 	height:auto;
 	margin:0px auto;
 }
 section{
-	
+
 	width:100%;
 	margin:0px auto;
 	padding: 20px;
@@ -17,7 +17,7 @@ section{
 
 }
 .card-grid img{
-	width:300px;
+	width:350px;
 	padding:10px;
 	box-shadow:0 0 3px rgba(0,0,0,0.3);
 	border-radius:10px;
